@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.zorg_enzo.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\HSLAB-VR-Laptop\\Documents\\GitHub\\Zorg_enzo\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Zorg_enzo [Testing]"
+        }
+      }
+    }
+  ]
+}
